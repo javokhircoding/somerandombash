@@ -1,0 +1,6 @@
+echo Backing up all the files...
+sleep 1
+echo wait...
+
+cp *.txt ~/Projects/bash_begin/backup/
+echo Done.
